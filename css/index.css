@@ -1,0 +1,15 @@
+body{
+    background-color: slategrey;
+}
+#fetchdata{
+    background-color: rgb(243, 50, 169);
+   
+    
+    justify-content: space-around;
+    box-shadow: white;
+    border-radius: 10%;
+    margin-top: 200px;
+    margin-left: 100px;
+    margin-right: auto;
+    margin-bottom: auto;
+}
